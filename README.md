@@ -1,2 +1,2 @@
 # hello_world
-My first Github resources
+My first Github code
